@@ -1,3 +1,6 @@
 # Simple react todo app
 
-## Created using hooks
+## Focus was on functionality 
+
+1. Developed simple todo app functionality using functional components
+2. Made use of States and Reducer for implementing todo functionality
